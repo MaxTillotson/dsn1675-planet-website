@@ -55,6 +55,10 @@ h3{
   overflow: hidden;
 }
 
+.silver{
+  background-color:silver;
+}
+
 @media only screen and (min-width: 25em) {
 
   h1{
