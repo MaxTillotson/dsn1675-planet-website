@@ -19,6 +19,7 @@ html{
 
 body{
   margin:0;
+  padding: 0;
 }
 
 .img-flex {
@@ -42,8 +43,9 @@ h1{
   text-align:center;
 }
 
-a{
-  color: blue;
+a, a:link, a:visited{
+  color: #0074D9;
+  text-decoration: none;
 }
 
 h3{
